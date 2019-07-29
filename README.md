@@ -9,7 +9,6 @@ A mini project displaying your "robo-friends" using react
 # To Run Project Locally
 In order to run this project locally you will need to install 
 [NPM](https://www.npmjs.com/)
-[React]
 
 # Installation & Starting up
 1. Fork this repository 
