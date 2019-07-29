@@ -4,7 +4,7 @@ A mini project displaying your "robo-friends" using react
 <!-- <div align="center">
     <img src="C:\Users\smart\Desktop\robofriends\Screenshot.jpg" width="400px"</img> 
 </div> -->
-[![Screenshot.png](https://i.postimg.cc/s2gqLk2p/Screenshot.png)](https://postimg.cc/yD2Lgrcd)
+[![Screenshot-1.png](https://i.postimg.cc/15LR4V0g/Screenshot-1.png)](https://postimg.cc/JG5C2n2m)
 =============================================================================================
 # To Run Project Locally
 In order to run this project locally you will need to install 
